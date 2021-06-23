@@ -1,0 +1,15 @@
+input {
+    width: 40px;
+    opacity: 0;
+}
+
+.icon{
+    position: relative;
+    left: -35px;
+    top: -9px;
+}
+
+.imagechat{
+    width: 20%;
+    position: relative;
+}
